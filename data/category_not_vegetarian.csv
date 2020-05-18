@@ -44,7 +44,7 @@ foie_gras,1
 french_fries,0
 french_onion_soup,1
 french_toast,0
-fried_calamari,1
+fried_calamari,0
 fried_rice,1
 frozen_yogurt,0
 garlic_bread,0
@@ -65,7 +65,7 @@ lobster_roll_sandwich,1
 macaroni_and_cheese,0
 macarons,0
 miso_soup,0
-mussels,0
+mussels,1
 nachos,0
 omelette,0
 onion_rings,0
@@ -98,5 +98,5 @@ strawberry_shortcake,0
 sushi,1
 takoyaki,0
 tiramisu,0
-tuna_tartare,1
+tuna_tartare,0
 waffles,0
