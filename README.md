@@ -5,8 +5,6 @@ This repository contains three different approaches of identifying vegetarian in
 * multi_class_classifier.ipynb: multi class classifier to predict vegetarianism based on category in the Food101 dataset
 * multilabel_classifier.ipynb: multi-label classifier to predict vegetarianism based on 
 
-This repository contains the code for applying image-based ingredients recognition through multi-label learning.
-
 ## Usage
 
 * Download and unpack the two datasets under the datasets section 
