@@ -374,7 +374,7 @@ fish soup,False
 five-spice powder,True
 flageolet beans,True
 flaked almonds,True
-flank,True
+flank,False
 flapjacks,True
 flatbread,True
 flatfish,False
@@ -384,7 +384,7 @@ flour tortilla,True
 floury potato,True
 flying fish,False
 focaccia,True
-foie gras,True
+foie gras,False
 fondant icing,True
 fondant potatoes,True
 fontina cheese,True
@@ -565,7 +565,7 @@ liquorice,True
 little gem lettuce,True
 liver,False
 loaf cake,True
-lobster,True
+lobster,False
 loganberry,True
 long-grain rice,True
 lovage,True
@@ -601,7 +601,7 @@ mascarpone,True
 mashed potato,True
 matzo,True
 mayonnaise,True
-meat,True
+meat,False
 medlars,True
 megrim,True
 melon,True
@@ -615,7 +615,7 @@ millet,True
 millet flour,True
 mince,True
 mince pies,True
-mincemeat,True
+mincemeat,False
 mint,True
 mint sauce,True
 mirepoix,True
@@ -664,7 +664,7 @@ nutmeg,True
 oatcakes,True
 oatmeal,True
 oats,True
-octopus,True
+octopus,False
 offal,True
 oil,True
 oily fish,False
@@ -678,9 +678,9 @@ orange liqueur,True
 oregano,True
 ouzo,True
 oxtail,True
-oyster,True
-oyster mushrooms,True
-oyster sauce,True
+oyster,False
+oyster mushrooms,False
+oyster sauce,False
 paella,True
 pak choi,True
 palm sugar,True
@@ -731,8 +731,8 @@ pickle,True
 pickled onion,True
 pie,True
 pig cheeks,True
-pigeon,True
-pigeon peas,True
+pigeon,False
+pigeon peas,False
 pike,True
 pine nut,True
 pineapple,True
@@ -1085,7 +1085,7 @@ wild mushrooms,True
 wild rice,True
 wine,True
 winkles,True
-wood pigeon,True
+wood pigeon,False
 worcestershire sauce,True
 wraps,True
 yam,True
@@ -1094,3 +1094,60 @@ yellow lentil,True
 yoghurt,True
 zander,False
 zest,True
+anchov,False
+bacon,False
+bass,False
+beef,False
+beef,False
+boar,False
+bream,False
+burger,False
+clams,False
+caviar,False
+chicken,False
+collar,False
+crab,False
+duck,False
+eel,False
+fat,False
+fish,False
+filet,False
+flank,False
+foie,False
+game,False
+goose,False
+gravy,False
+hare,False
+ham,False
+horse,False
+kipper,False
+kidney,False
+lamb,False
+lamb,False
+liver,False
+lobster,False
+meat,False
+morel,False
+octopus,False
+oyster,False
+pigeon,False
+pork,False
+poultry,False
+quail,False
+rump,False
+rabbit,False
+salami,False
+salmon,False
+seafood,False
+shrimp,False
+sirloin,False
+silversidesmokie,False
+squid,False
+steak,False
+stuffing,False
+tongue,False
+tuna,False
+turkey,False
+trout,False
+veal,False
+zander,False
